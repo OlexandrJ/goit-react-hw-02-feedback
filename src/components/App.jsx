@@ -1,4 +1,3 @@
-// App.jsx
 import React, { useState } from 'react';
 import FeedbackOptions from './FeedbackOptions';
 import Statistics from './Statistics';

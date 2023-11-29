@@ -13,3 +13,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  display: none;
+}
+
+.statisticsSection {
+display: flex;
+gap: 10px;
+}
+
+button {
+  cursor: pointer;
+}
